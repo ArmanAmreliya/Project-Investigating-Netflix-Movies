@@ -139,12 +139,6 @@ plt.show()
 ## 🏷️ Tags
 `#DataAnalysis` `#Netflix` `#Movies` `#1990s` `#Python` `#Pandas` `#Matplotlib` `#DataVisualization` `#Cinema` `#EDA`
 
-## 📧 Contact
-
-**Project Maintainer**: [Your Name]
-- 📧 Email: [your.email@example.com]
-- 🐙 GitHub: [@yourusername]
-- 💼 LinkedIn: [Your LinkedIn Profile]
 
 ## 🙏 Acknowledgments
 
@@ -160,10 +154,7 @@ plt.show()
   <p>Made with ❤️ and lots of ☕</p>
 </div>
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 **Happy Analyzing! 🎬📊**
+
