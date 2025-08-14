@@ -62,7 +62,7 @@ import matplotlib.pyplot as plt
  ┣ 📊 netflix_data.csv        # Netflix dataset
  ┣ 🖼️ redpopcorn.jpg         # Project banner image
  ┣ 🖼️ 14f056b7-7937-4255-bc91-8162859cc934.jpg  # Additional image
- ┗ 📜 README.md              # You are here!
+ ┗ 📜 README.md              # You are here!!
 ```
 
 ## 📊 Dataset Information
@@ -157,4 +157,5 @@ plt.show()
 ---
 
 **Happy Analyzing! 🎬📊**
+
 
